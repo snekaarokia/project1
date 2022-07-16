@@ -1,6 +1,6 @@
 
 //made correction...
-
+//success...
 import java.util.Scanner;
 
 
