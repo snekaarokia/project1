@@ -15,11 +15,11 @@ System.out.println("Enter a number");
 n=sc.nextInt();
 if(n>0)
 {
-System.out.println("true");
+System.out.println("1");
 }
 else
 {
-System.out.println("false");
+System.out.println("0");
 }
 
 }
