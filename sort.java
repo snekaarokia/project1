@@ -1,6 +1,6 @@
 //using in git for checking process.....
 
-
+//correction are there...
 user input --2 numbers
 input == choice
 
