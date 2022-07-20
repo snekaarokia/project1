@@ -1,5 +1,6 @@
 
 //git...
+//changes done...
 import java.util.Scanner;
 class array3
 {
